@@ -7,3 +7,4 @@ In this homework, I create the material `Decay_M`. This material has a texture a
 For demonstration, I created a BP for cube where I check if the boolean value of 'to_destroy' is true. If it is, then we start to make the material invisible, and when the value is 0, the material will be hidden and destroyed. The boolean, I switch in BP of projectile. When projectile hits a cube, and it is a cube with our material, I switch the boolean.
 
 ## Demonstration of work
+![2022-06-16 13-41-11](https://user-images.githubusercontent.com/34779566/174053612-85c1a35f-2ff2-4bf7-9635-788e28eefac7.gif)
