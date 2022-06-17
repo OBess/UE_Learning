@@ -1,2 +1,2 @@
 # UE_Learning
-HW_1 - materials and blueprints
+HW_1 - material and blueprint
