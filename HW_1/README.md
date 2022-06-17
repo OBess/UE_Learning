@@ -1,6 +1,6 @@
 # HW 1
 
-## Work with materials
+## Work with material and blueprint
 
 In this homework, I create the material `Decay_M`. This material has a texture and base color, and texture is used for the decay map, where I get `G` value of color, and relative to this I create decay. Also, decay occurs relatively from scalar that has a range from 0 to 2, in 0 the material is invisible, and in 2 the material is visible.
 
