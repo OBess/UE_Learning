@@ -13,3 +13,5 @@ To demonstrate work of class was created UMG widget `CalculatorWidget.uasset`. T
 
 ## Demonstration of work of Test Automation from run_tests.bat file
 ![2022-06-19 04-10-31](https://user-images.githubusercontent.com/34779566/174461863-11a3b056-785f-4ced-80fb-fc8d79c6473e.gif)
+
+## Demonstration of work of UMG Widget
