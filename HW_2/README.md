@@ -15,3 +15,4 @@ To demonstrate work of class was created UMG widget `CalculatorWidget.uasset`. T
 ![2022-06-19 04-10-31](https://user-images.githubusercontent.com/34779566/174461863-11a3b056-785f-4ced-80fb-fc8d79c6473e.gif)
 
 ## Demonstration of work of UMG Widget
+![2022-06-19-04-15-17](https://user-images.githubusercontent.com/34779566/174462021-dfe612ae-2a71-47d1-8441-d244a3bb4650.gif)
