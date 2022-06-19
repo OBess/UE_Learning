@@ -10,3 +10,6 @@ To demonstrate work of class was created UMG widget `CalculatorWidget.uasset`. T
 
 ## Demonstration of work of Test Automation from UEEditor
 ![2022-06-19 04-05-36](https://user-images.githubusercontent.com/34779566/174461721-af9cf602-ed8d-47dd-bb92-6b81f74a4a54.gif)
+
+## Demonstration of work of Test Automation from run_tests.bat file
+![2022-06-19 04-10-31](https://user-images.githubusercontent.com/34779566/174461863-11a3b056-785f-4ced-80fb-fc8d79c6473e.gif)
