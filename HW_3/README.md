@@ -9,5 +9,5 @@ On the second map `Sky_Map` I just use plugin `Sun Position Calculator` and a Re
 ## NeonWords_Map
 ![2022-06-20 00-13-13](https://user-images.githubusercontent.com/34779566/174500656-354c0b2d-40fb-4eb9-966a-ab07b706d8c2.gif)
 
-
 ## Sky_Map
+![2022-06-20 00-13-43](https://user-images.githubusercontent.com/34779566/174500674-2c8f6752-c0a6-4cf5-8e39-4dbcdbc8f609.gif)
