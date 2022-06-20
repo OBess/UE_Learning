@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.CalculatorEBNF.cpp.obj": [
+			"Calculator.cpp.obj",
+			"CalculatorEBNF.cpp.obj",
+			"TestCalculator.cpp.obj"
+		],
+		"Module.CalculatorEBNF.gen.cpp.obj": [
+			"Calculator.gen.cpp.obj",
+			"CalculatorEBNF.init.gen.cpp.obj"
+		]
+	}
+}

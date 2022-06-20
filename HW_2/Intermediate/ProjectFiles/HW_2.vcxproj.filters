@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HW_2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7F4502EE-6EF3-4AB0-B307-FA2013888173}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HW_2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HW_2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{68CF00C0-DC34-49A1-BB34-715B4E8CBB14}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{2EC277FD-8AEA-48C8-AF92-EEED1B9A90A3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CalculatorEBNF">
+      <UniqueIdentifier>{41B250B6-E384-4299-BCB6-295BCA53C437}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CalculatorEBNF\Source">
+      <UniqueIdentifier>{10DB8BAC-4531-4446-B27B-FB4FA15A3348}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CalculatorEBNF\Source\CalculatorEBNF">
+      <UniqueIdentifier>{39F36DC7-5F62-436B-B2F2-6F52B0E05C60}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CalculatorEBNF\Source\CalculatorEBNF\CalculatorEBNF.Build.cs">
+      <Filter>Plugins\CalculatorEBNF\Source\CalculatorEBNF</Filter>
+    </None>
+    <Filter Include="Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private">
+      <UniqueIdentifier>{274B3586-5275-4C80-81EA-054D95A9418C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private\Calculator.cpp">
+      <Filter>Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private\CalculatorEBNF.cpp">
+      <Filter>Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private\Test">
+      <UniqueIdentifier>{2E94F893-3DF5-402B-A3C5-1010C27317BB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private\Test\TestCalculator.cpp">
+      <Filter>Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private\Test</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private\Test\TestCalculator.h">
+      <Filter>Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private\Test</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CalculatorEBNF\Source\CalculatorEBNF\Public">
+      <UniqueIdentifier>{6F103D6D-EA18-41E7-A453-49468AA2702C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Public\Calculator.h">
+      <Filter>Plugins\CalculatorEBNF\Source\CalculatorEBNF\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Public\CalculatorEBNF.h">
+      <Filter>Plugins\CalculatorEBNF\Source\CalculatorEBNF\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\CalculatorEBNF\CalculatorEBNF.uplugin">
+      <Filter>Plugins\CalculatorEBNF</Filter>
+    </None>
+    <Filter Include="Plugins\CalculatorEBNF\Resources">
+      <UniqueIdentifier>{D3D71BF2-135D-4453-855D-2492ED8D8D46}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CalculatorEBNF\Resources\Icon128.png">
+      <Filter>Plugins\CalculatorEBNF\Resources</Filter>
+    </None>
+    <Filter Include="Source\HW_2">
+      <UniqueIdentifier>{39C269D7-7612-4452-A2C9-02D6A0DD7C25}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HW_2\HW_2.Build.cs">
+      <Filter>Source\HW_2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HW_2\HW_2.cpp">
+      <Filter>Source\HW_2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HW_2\HW_2.h">
+      <Filter>Source\HW_2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\HW_2\HW_2GameModeBase.cpp">
+      <Filter>Source\HW_2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HW_2\HW_2GameModeBase.h">
+      <Filter>Source\HW_2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CalculatorEBNF.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\HW_2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\CalculatorEBNF.cpp.obj"
+"C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\Default.rc2.res"
+/OUT:"C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\UE4Editor-CalculatorEBNF.lib"

@@ -1,0 +1,17 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\My\Projects\UE4\UE_Learning).
+  Parsing headers for HW_2Editor
+    Running UnrealHeaderTool "C:\My\Projects\UE4\UE_Learning\HW_2\HW_2.uproject" "C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\HW_2Editor\Development\HW_2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\NITRO\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for HW_2Editor in 7,7680349 seconds
+  Building HW_2Editor...
+  Using Visual Studio 2022 14.32.31328 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 5 actions with 8 processes...
+    [1/5] Module.CalculatorEBNF.cpp
+    [2/5] Module.CalculatorEBNF.gen.cpp
+    [3/5] UE4Editor-CalculatorEBNF.lib
+       Creating library C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\UE4Editor-CalculatorEBNF.lib and object C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\UE4Editor-CalculatorEBNF.exp
+    [4/5] UE4Editor-CalculatorEBNF.dll
+       Creating library C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\UE4Editor-CalculatorEBNF.suppressed.lib and object C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\UE4Editor-CalculatorEBNF.suppressed.exp
+    [5/5] HW_2Editor.target
+  Total time in Parallel executor: 7,61 seconds
+  Total execution time: 16,12 seconds

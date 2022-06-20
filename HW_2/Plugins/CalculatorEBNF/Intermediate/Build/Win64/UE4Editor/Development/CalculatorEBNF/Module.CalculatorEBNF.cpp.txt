@@ -1,0 +1,8 @@
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\Definitions.CalculatorEBNF.h
+C:/My/Projects/UE4/UE_Learning/HW_2/Plugins/CalculatorEBNF/Source/CalculatorEBNF/Private/Calculator.cpp
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Public\Calculator.h
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Inc\CalculatorEBNF\Calculator.generated.h
+C:/My/Projects/UE4/UE_Learning/HW_2/Plugins/CalculatorEBNF/Source/CalculatorEBNF/Private/CalculatorEBNF.cpp
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Public\CalculatorEBNF.h
+C:/My/Projects/UE4/UE_Learning/HW_2/Plugins/CalculatorEBNF/Source/CalculatorEBNF/Private/Test/TestCalculator.cpp
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Private\Test/TestCalculator.h

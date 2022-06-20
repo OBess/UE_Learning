@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HW_2",
+			"Path": "C:\\My\\Projects\\UE4\\UE_Learning\\HW_2\\Source\\HW_2.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HW_2Editor",
+			"Path": "C:\\My\\Projects\\UE4\\UE_Learning\\HW_2\\Source\\HW_2Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

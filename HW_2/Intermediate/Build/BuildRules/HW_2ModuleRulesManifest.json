@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\My\\Projects\\UE4\\UE_Learning\\HW_2\\Source\\HW_2\\HW_2.Build.cs",
+		"C:\\My\\Projects\\UE4\\UE_Learning\\HW_2\\Plugins\\CalculatorEBNF\\Source\\CalculatorEBNF\\CalculatorEBNF.Build.cs",
+		"C:\\My\\Projects\\UE4\\UE_Learning\\HW_2\\Source\\HW_2.Target.cs",
+		"C:\\My\\Projects\\UE4\\UE_Learning\\HW_2\\Source\\HW_2Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

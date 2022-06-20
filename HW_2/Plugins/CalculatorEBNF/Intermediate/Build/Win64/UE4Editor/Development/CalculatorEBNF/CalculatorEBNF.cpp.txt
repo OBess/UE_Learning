@@ -1,0 +1,2 @@
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\Definitions.CalculatorEBNF.h
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Source\CalculatorEBNF\Public\CalculatorEBNF.h

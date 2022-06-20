@@ -1,0 +1,7 @@
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Development\CalculatorEBNF\Definitions.CalculatorEBNF.h
+C:/My/Projects/UE4/UE_Learning/HW_2/Plugins/CalculatorEBNF/Intermediate/Build/Win64/UE4Editor/Inc/CalculatorEBNF/Calculator.gen.cpp
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Source\CalculatorEBNF/Public/Calculator.h
+C:\My\Projects\UE4\UE_Learning\HW_2\Plugins\CalculatorEBNF\Intermediate\Build\Win64\UE4Editor\Inc\CalculatorEBNF\Calculator.generated.h
+C:/My/Projects/UE4/UE_Learning/HW_2/Plugins/CalculatorEBNF/Intermediate/Build/Win64/UE4Editor/Inc/CalculatorEBNF/CalculatorEBNF.init.gen.cpp

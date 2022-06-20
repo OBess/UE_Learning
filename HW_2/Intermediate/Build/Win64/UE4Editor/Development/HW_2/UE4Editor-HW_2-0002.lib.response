@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HW_2-0002.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\HW_2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\UE4Editor\Development\HW_2\HW_2.cpp.obj"
+"C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\UE4Editor\Development\HW_2\HW_2GameModeBase.cpp.obj"
+"C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\UE4Editor\Development\HW_2\HW_2.init.gen.cpp.obj"
+"C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\UE4Editor\Development\HW_2\HW_2GameModeBase.gen.cpp.obj"
+"C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\UE4Editor\Development\HW_2\Default.rc2.res"
+/OUT:"C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\UE4Editor\Development\HW_2\UE4Editor-HW_2-0002.lib"

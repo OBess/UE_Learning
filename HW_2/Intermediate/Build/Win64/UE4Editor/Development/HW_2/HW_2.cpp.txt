@@ -1,0 +1,2 @@
+C:\My\Projects\UE4\UE_Learning\HW_2\Intermediate\Build\Win64\UE4Editor\Development\HW_2\Definitions.HW_2.h
+C:\My\Projects\UE4\UE_Learning\HW_2\Source\HW_2\HW_2.h
