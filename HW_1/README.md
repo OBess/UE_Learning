@@ -7,4 +7,4 @@ In this homework, I create the material `Decay_M`. This material has a texture a
 For demonstration, I created a BP for cube where exists custom event that start to make the material invisible, and when the value is 0, the material will be hidden and destroyed. The event I call from projectile, when it hits a cube.
 
 ## Demonstration of work
-![2022-06-16 13-41-11](https://user-images.githubusercontent.com/34779566/174053612-85c1a35f-2ff2-4bf7-9635-788e28eefac7.gif)
+![2022-06-21-16-16-17](https://user-images.githubusercontent.com/34779566/174808749-3b937fb0-bdb2-49ac-a8e2-03146c1e2c15.gif)
