@@ -7,7 +7,7 @@ In this homework, two maps were created where I use lights. On the first map `Ne
 On the second map `Sky_Map` I just use a plugin `Sun Position Calculator` and a Rect Light for light letters.
 
 ## NeonWords_Map
-![2022-06-20 00-13-13](https://user-images.githubusercontent.com/34779566/174500656-354c0b2d-40fb-4eb9-966a-ab07b706d8c2.gif)
+![2022-06-21 16-35-21](https://user-images.githubusercontent.com/34779566/174812697-adf2a0dd-8fe0-4ee4-ba04-0bd8aacb2e15.gif)
 
 ## Sky_Map
 ![2022-06-20 00-13-43](https://user-images.githubusercontent.com/34779566/174500674-2c8f6752-c0a6-4cf5-8e39-4dbcdbc8f609.gif)
