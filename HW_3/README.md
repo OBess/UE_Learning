@@ -10,4 +10,5 @@ On the second map `Sky_Map` I just use a plugin `Sun Position Calculator` and a 
 ![2022-06-21 16-35-21](https://user-images.githubusercontent.com/34779566/174812697-adf2a0dd-8fe0-4ee4-ba04-0bd8aacb2e15.gif)
 
 ## Sky_Map
-![2022-06-20 00-13-43](https://user-images.githubusercontent.com/34779566/174500674-2c8f6752-c0a6-4cf5-8e39-4dbcdbc8f609.gif)
+![2022-06-21 16-37-53](https://user-images.githubusercontent.com/34779566/174813385-1a8d4dca-f2dd-4416-a592-4dcca41caf24.gif)
+
