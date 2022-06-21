@@ -18,7 +18,7 @@ IF NOT DEFINED LogFile (
 
 ECHO  Testing started
 
-"C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor.exe" %Project% ^
+"E:\Unreal Engine\UE_5.0\Engine\Binaries\Win64\UnrealEditor.exe" %Project% ^
               -ExecCmds="Automation RunTests %SetOfTest%" ^
               -unattended ^
               -nopause ^
