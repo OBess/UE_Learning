@@ -9,7 +9,7 @@ To testing Compute method was created a Unit Test Class `FCalculatorEBNF_Compute
 To demonstrate work of class was created UMG widget `CalculatorWidget.uasset`. To check this widget move to TestMap.uasset in Contents of HW_2 project, not of plugin, and run project. This widget creates a simple grid of buttons, button "Reset", and two text component. When you click on button you append a symbol to current expression that you can see on screen, when you click button `=`, you can see the result of expression, if you want to type a new expression, you should click on button `Reset`.
 
 ## Demonstration of work of Test Automation from UEEditor
-![2022-06-19 04-05-36](https://user-images.githubusercontent.com/34779566/174461721-af9cf602-ed8d-47dd-bb92-6b81f74a4a54.gif)
+![2022-06-21 16-20-13](https://user-images.githubusercontent.com/34779566/174809739-852bd6dc-1611-405c-ab35-82c54339e1f5.gif)
 
 ## Demonstration of work of Test Automation from run_tests.bat file
 ![2022-06-19 04-10-31](https://user-images.githubusercontent.com/34779566/174461863-11a3b056-785f-4ced-80fb-fc8d79c6473e.gif)
