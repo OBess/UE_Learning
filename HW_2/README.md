@@ -2,9 +2,9 @@
 
 ## Work with Blueprint
 
-In this homework were created two blueprints according to video and was create the same functionality with C++ code.
+In this homework, two blueprints were created according to the video and the same functionality as C++ code.
 
-## Demonstration of door from blueprints
+## Demonstration of door as blueprints
 
 
-## Demonstration of door from c++ code
+## Demonstration of door as c++ code
