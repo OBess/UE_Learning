@@ -4,4 +4,4 @@
 
 In this homework I created the same materials that were shown in the video.
 
-## Demonstration of matrials from vidoe
+## Demonstration of materials from video
