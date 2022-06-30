@@ -7,3 +7,4 @@
 - HW_4 - lighting (103.1)
 - HW_5 - animation (107.1)
 - HW_6 - materials and masking functions (201.1) - in process
+- HW_7 - blueprint-intermediate interfaces & parent child classes (202.1) - in process
