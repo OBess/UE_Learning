@@ -6,6 +6,6 @@
 - HW_3 - testing, plugin, and UMG (Practical Task_Automation system, Practical Task_C++and Blueprints, 102.2)
 - HW_4 - lighting (103.1)
 - HW_5 - animation (107.1)
-- HW_6 - materials and masking functions (201.1) - in process
-- HW_7 - blueprint-intermediate interfaces & parent child classes (202.1) - in process
-- HW_8 - advanced user interface creation with UMG (202.2) - in process
+- HW_6 - materials and masking functions (201.1)
+- HW_7 - blueprint-intermediate interfaces & parent child classes (202.1)
+- HW_8 - advanced user interface creation with UMG (202.2)
