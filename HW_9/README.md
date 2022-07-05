@@ -2,7 +2,7 @@
 
 ## Work sequencer
 
-In this homework, was created a sequencer that shows us an animated pawn. In the sequencer we move a camera as well.
+In this homework, was created a sequencer that shows us an animated pawn. Also, in the sequencer we move a camera.
 
 ## Demonstration of sequencer
 
