@@ -9,3 +9,4 @@
 - HW_6 - materials and masking functions (201.1)
 - HW_7 - blueprint-intermediate interfaces & parent child classes (202.1)
 - HW_8 - advanced user interface creation with UMG (202.2)
+- HW_9 - sequencer (205.1)
