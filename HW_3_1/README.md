@@ -8,7 +8,7 @@ For the cube, a ```BP_MasterCube``` was created, which has a logic for moving an
 
 Cubes are spawned by custom GameMode with event ```Spawn Cubes```. Some events are called from ```BP_FirstPersonProjectile``` to increase score and spawn a new cube, and form ```BP_Rifle``` to decrease available shots.
 
-## Start the game and demonstrate it
+## Starting the game and demonstrating it
 [Untitled.webm](https://user-images.githubusercontent.com/34779566/178114585-d7e2c765-a551-4ed9-b113-cc6f950ea518.webm)
 
 ## Restart game
