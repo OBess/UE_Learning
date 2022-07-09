@@ -4,7 +4,7 @@
 - HW_1 - materials (101.1)
 - HW_2 - blueprint (102.1)
 - HW_3 - testing, plugin, and UMG (Practical Task_Automation system, Practical Task_C++and Blueprints, 102.2)
-- HW_3_1 - simple game with menu and UMG info (102.1, 102.2)
+- HW_3_1 - simple game with UMG menu and info (102.1, 102.2)
 - HW_4 - lighting (103.1)
 - HW_5 - animation (107.1)
 - HW_6 - materials and masking functions (201.1)
