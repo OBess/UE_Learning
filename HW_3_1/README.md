@@ -11,8 +11,8 @@ Cubes are spawned by custom GameMode with event ```Spawn Cubes```. Some events a
 ## Starting the game and demonstrating it
 [Untitled.webm](https://user-images.githubusercontent.com/34779566/178114585-d7e2c765-a551-4ed9-b113-cc6f950ea518.webm)
 
-## Restart game
-
+## Restarting the game and demonstrating end by the time
+[Untitled.webm](https://user-images.githubusercontent.com/34779566/178114776-e89278aa-06bb-40b8-8546-3575d403f62f.webm)
 
 ## Exit the game
 ![2022-07-09 19-01-48](https://user-images.githubusercontent.com/34779566/178114193-9cc58aa9-6b45-493e-9ce5-8fb7a44611da.gif)
