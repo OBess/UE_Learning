@@ -16,6 +16,14 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "UVEditor",
+			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }
