@@ -7,6 +7,8 @@ In this homework, two maps were created where I use lights. On the first map `Ne
 On the second map `Sky_Map` I just use a plugin `Sun Position Calculator` and a Rect Light for light letters.
 
 Also, I have made two maps (Lighting_PPV, Lighting_Types) from tasks where I work with Post Processing Volume and tried different types of lights.
+On the Lighting_PPV you can see the building with two rooms and two different Post Processing Volumes.
+On the Lighting_Types you can see three buildings with the actor and lights. "Cube" is moveable others are static.
 
 ## NeonWords_Map
 ![NeonWords_Map](https://user-images.githubusercontent.com/34779566/174812697-adf2a0dd-8fe0-4ee4-ba04-0bd8aacb2e15.gif)
